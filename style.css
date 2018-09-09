@@ -32,6 +32,9 @@ body, html {
     width: 80%;
     height: calc(100% + 20px);
     background: #333;
+    background: url(map.jpeg);
+    background-position: -39px 0;
+    background-size: cover;
     top: -10px;
     left: -80%;
     box-sizing: border-box;
@@ -54,6 +57,9 @@ body, html {
     width: 80%;
     height: calc(100% + 20px);
     background: #333;
+    background: url(map.jpeg);
+    background-position: 123px 0;
+    background-size: cover;
     top: -10px;
     right: -80%;
     border-top: 10px solid rgb(168, 150, 75);
